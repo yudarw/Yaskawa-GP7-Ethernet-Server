@@ -1,2 +1,2 @@
-# Yaskawa GP7 YRC1000 etherner server controller
+# Yaskawa GP7 YRC1000 ethernet server controller
 This is a library for handling the communication of Yaskawa GP7 by using C++
